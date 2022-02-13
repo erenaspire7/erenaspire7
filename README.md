@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=erenaspire7&show_icons=true&theme=prussian" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenaspire7&layout=compact&hide=jupyter%20notebook,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenaspire7&layout=compact&hide=jupyter%20notebook,html,rich%20text%20format" />
 </a>
 <!--
 **erenaspire7/erenaspire7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
