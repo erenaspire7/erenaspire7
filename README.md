@@ -15,10 +15,12 @@
 ### Hi there 👋
 
 <p align="center">
-[![Yusuff Jamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenaspire7&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Yusuff Jamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenaspire7&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Yusuff Jamal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenaspire7&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+  [![Yusuff Jamal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenaspire7&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+  
  </p>
 <!--
 **erenaspire7/erenaspire7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
