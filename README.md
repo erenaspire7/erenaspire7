@@ -11,10 +11,10 @@
 
 <p align="center">
   <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenaspire7&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,html,php,rich%20text%20format" alt="erenaspire7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenaspire7&show_icons=true&locale=en&layout=compact&card_width=300&hide=jupyter%20notebook,html,php,rich%20text%20format" alt="erenaspire7" />
   </a>
   <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erenaspire7&show_icons=true&locale=en" alt="erenaspire7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erenaspire7&count_private=True&show_icons=true&locale=en" alt="erenaspire7" />
   </a>
 </p>
 
